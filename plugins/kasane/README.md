@@ -27,3 +27,4 @@ argocd app create kasane \
     --dest-server https://kubernetes.default.svc \
     --dest-namespace default
 ```
+test
